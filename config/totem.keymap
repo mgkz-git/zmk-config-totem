@@ -16,10 +16,10 @@
 
         numerical {
             bindings = <
-                  &kp NUMBER_1  &kp N2   &kp N3     &kp N4        &kp N5       &kp N6         &kp N7            &kp N8    &kp N9  &kp N0
-                  &kp F1        &kp F2   &kp F3     &kp F4        &kp F5       &kp LESS_THAN  &kp GREATER_THAN  &none     &none   &none
-&mt RCTRL ESCAPE  &kp F11       &kp F12  &none      &none         &trans       &kp F6         &kp F7            &kp F8    &kp F9  &kp F10  &mt RSHFT A
-                                         &kp LCTRL  &kp LEFT_ALT  &kp SPACE    &kp RET        &kp RIGHT_ALT     &kp BSPC
+                  &kp NUMBER_1  &kp N2   &kp N3     &kp N4        &kp N5       &kp N6   &kp N7         &kp N8    &kp N9  &kp N0
+                  &kp F1        &kp F2   &kp F3     &kp F4        &kp F5       &kp LT   &kp GT         &none     &none   &none
+&mt RCTRL ESCAPE  &kp F11       &kp F12  &none      &kp LEFT_ALT  &trans       &kp F6   &kp F7         &kp F8    &kp F9  &kp F10  &mt RSHFT TAB
+                                         &kp LCTRL  &trans        &kp SPACE    &kp RET  &kp RIGHT_ALT  &kp BSPC
             >;
         };
 
