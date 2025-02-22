@@ -35,10 +35,10 @@
 
         Other {
             bindings = <
-                  &kp TAB            &kp LS(N7)        &kp LS(N8)        &kp LS(N9)        &kp C_VOLUME_UP      &kp PAGE_UP     &kp HOME        &kp UP_ARROW    &kp END          &sl 3
-                  &trans             &kp LS(NUMBER_4)  &kp LS(N5)        &kp LS(NUMBER_6)  &kp C_VOLUME_DOWN    &kp PAGE_DOWN   &kp LEFT_ARROW  &kp DOWN_ARROW  &kp RIGHT_ARROW  &trans
-&mt LCTRL ESCAPE  &kp LS(SEMICOLON)  &kp LS(NUMBER_1)  &kp LS(NUMBER_2)  &kp LS(NUMBER_3)  &kp C_MUTE           &kp C_PREVIOUS  &kp C_PAUSE     &kp C_NEXT      &trans           &trans  &kp BACKSPACE
-                                                       &kp LS(N0)        &sk LEFT_WIN      &sk LEFT_ALT         &kp ENTER       &trans          &kp LEFT_SHIFT
+                  &kp TAB            &kp LS(N7)        &kp LS(N8)        &kp LS(N9)        &kp C_VOLUME_UP      &kp PAGE_UP     &kp HOME          &kp UP_ARROW    &kp END          &sl 3
+                  &trans             &kp LS(NUMBER_4)  &kp LS(N5)        &kp LS(NUMBER_6)  &kp C_VOLUME_DOWN    &kp PAGE_DOWN   &kp LEFT_ARROW    &kp DOWN_ARROW  &kp RIGHT_ARROW  &trans
+&mt LCTRL ESCAPE  &kp LS(SEMICOLON)  &kp LS(NUMBER_1)  &kp LS(NUMBER_2)  &kp LS(NUMBER_3)  &kp C_MUTE           &kp C_PREVIOUS  &kp C_PLAY_PAUSE  &kp C_NEXT      &trans           &trans  &kp BACKSPACE
+                                                       &kp LS(N0)        &sk LEFT_WIN      &sk LEFT_ALT         &kp ENTER       &trans            &kp LEFT_SHIFT
             >;
         };
 
