@@ -26,9 +26,9 @@
 
         numerical {
             bindings = <
-                  &kp NUMBER_1  &kp N2   &kp N3             &kp N4     &kp N5          &kp N6                &kp N7         &kp N8                   &kp N9        &kp N0
-                  &kp F1        &kp F2   &kp F3             &kp F4     &kp F5          &kp NON_US_BACKSLASH  &kp MINUS      &kp LEFT_BRACKET         &kp ASTERISK  &kp SQT
-&mt RCTRL ESCAPE  &kp F11       &kp F12  &kp RIGHT_BRACKET  &kp EQUAL  &kp LEFT_ALT    &kp F6                &kp F7         &kp F8                   &kp F9        &kp F10  &kp BACKSPACE
+                  &kp NUMBER_1  &kp N2   &kp N3             &kp N4     &kp N5          &kp N6                &kp N7         &kp N8                   &kp N9     &kp N0
+                  &kp F1        &kp F2   &kp F3             &kp F4     &kp F5          &kp NON_US_BACKSLASH  &kp MINUS      &kp LEFT_BRACKET         &kp ASTRK  &kp SQT
+&mt RCTRL ESCAPE  &kp F11       &kp F12  &kp RIGHT_BRACKET  &kp EQUAL  &kp LEFT_ALT    &kp F6                &kp F7         &kp F8                   &kp F9     &kp F10  &kp BACKSPACE
                                          &sk LEFT_WIN       &trans     &kp SPACE       &kp RET               &sk RIGHT_ALT  &mt LEFT_SHIFT LEFT_WIN
             >;
         };
